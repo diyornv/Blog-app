@@ -3,7 +3,10 @@ import './index.css'
 
 function App() {
     return (
-        <h1 className='container mx-auto'>hello</h1>
+        <div className='container mx-auto'>
+            <h1 className='text-4xl'>hello</h1>
+            <h1 className='text-6xl'>hello</h1>
+        </div>
     )
 }
 
